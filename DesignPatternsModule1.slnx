@@ -5,5 +5,6 @@
   <Project Path="PatDM2L1/PatDM2L1.csproj" Id="d5713b0a-b36e-476c-a95e-4fa676ea4368" />
   <Project Path="PatDM2P/PatDM2P.csproj" Id="ecec7ce7-f21e-4d09-8f21-ce15900a6b42" />
   <Project Path="PatDM3Homework/PatDM3Homework.csproj" Id="067eab2d-470f-4155-a411-589fc622b829" />
+  <Project Path="PatDM3Lab/PatDM3Lab.csproj" Id="2868b92d-ddae-4cee-881a-7e61e27e9d37" />
   <Project Path="PatDM3Practice/PatDM3Practice.csproj" Id="2789962c-f3b1-4961-be7e-ea04d92cae72" />
 </Solution>
