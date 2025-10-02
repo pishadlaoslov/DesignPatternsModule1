@@ -8,5 +8,6 @@
   <Project Path="PatDM3Lab/PatDM3Lab.csproj" Id="2868b92d-ddae-4cee-881a-7e61e27e9d37" />
   <Project Path="PatDM3Practice/PatDM3Practice.csproj" Id="2789962c-f3b1-4961-be7e-ea04d92cae72" />
   <Project Path="PatDM4Lab/PatDM4Lab.csproj" Id="9d317f98-c1e9-4b04-a03a-0c59eed402f8" />
+  <Project Path="PatDM4Practice/PatDM4Practice.csproj" Id="8ef844b9-be48-470d-8996-e53095a2bfa9" />
   <Project Path="PatDModule4Homework/PatDModule4Homework.csproj" Id="6ea0d67e-9e4a-44f4-adce-8380143f8f9e" />
 </Solution>
