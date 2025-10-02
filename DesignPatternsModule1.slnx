@@ -3,4 +3,6 @@
   <Project Path="PatDM1P1/PatDM1P1.csproj" Id="deab39c5-a5ca-4960-a130-d8c6970d9c72" />
   <Project Path="PatDM2Homework/PatDM2Homework.csproj" Id="8de9871e-5bcb-45ca-9086-d89e104799cc" />
   <Project Path="PatDM2L1/PatDM2L1.csproj" Id="d5713b0a-b36e-476c-a95e-4fa676ea4368" />
+  <Project Path="PatDM2P/PatDM2P.csproj" Id="ecec7ce7-f21e-4d09-8f21-ce15900a6b42" />
+  <Project Path="PatDM3Homework/PatDM3Homework.csproj" Id="067eab2d-470f-4155-a411-589fc622b829" />
 </Solution>
