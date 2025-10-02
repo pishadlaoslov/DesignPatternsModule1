@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPatternsModule1
+namespace DesignPatternsModule1.Lab1
 {
     public class Worker : Employee
     {

@@ -1,4 +1,4 @@
-﻿using DesignPatternsModule1;
+﻿using DesignPatternsModule1.Lab1;
 
 class Program
 {
